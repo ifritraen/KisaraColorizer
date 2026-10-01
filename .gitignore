@@ -16,4 +16,6 @@ secrets.*
 sensitive.*
 *.jks
 *.keystore
+debug_output/
+
 
